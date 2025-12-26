@@ -1,0 +1,16 @@
+id,question,answer,category
+1,How do I reset my password?,"Click 'Forgot Password' on the login page, enter your email, and follow the instructions sent to your inbox.",Login Issues
+2,What payment methods do you accept?,"We accept credit cards (Visa, Mastercard, AmEx), PayPal, and bank transfers for enterprise customers.",Billing
+3,How can I upgrade my subscription plan?,"Go to Settings > Billing > Subscription, select your desired plan, and click 'Upgrade'. Changes take effect immediately.",Billing
+4,Is there a mobile app available?,Yes! Our mobile app is available for both iOS and Android. Download it from the App Store or Google Play.,Product Info
+5,How do I contact customer support?,"You can reach us via email at support@verba.ai, live chat (bottom right corner), or call +389-2-XXX-XXXX during business hours.",Customer Support
+6,Can I cancel my subscription anytime?,"Yes, you can cancel anytime from your account settings. You'll have access until the end of your billing period.",Billing
+7,What is your refund policy?,We offer a 30-day money-back guarantee. Contact support within 30 days of purchase for a full refund.,Billing
+8,How do I add team members to my account?,"Go to Settings > Team Management, click 'Invite Member', enter their email address, and assign their role.",Product Info
+9,Why can't I log in to my account?,"Common reasons include incorrect password, account suspension, or browser cache issues. Try resetting your password or clearing your cache.",Login Issues
+10,Do you offer enterprise plans?,"Yes! Enterprise plans include dedicated support, custom integrations, and volume discounts. Contact sales@verba.ai for details.",Product Info
+11,How secure is my data?,"We use bank-level encryption (AES-256), regular security audits, and are SOC 2 Type II certified. Your data is stored in secure data centers.",Product Info
+12,Can I export my data?,"Yes, go to Settings > Data & Privacy > Export Data. You'll receive a download link via email within 24 hours.",Product Info
+13,What happens if I exceed my usage limit?,"You'll receive notifications as you approach your limit. Once exceeded, you can upgrade your plan or wait for the next billing cycle.",Billing
+14,How do I update my billing information?,"Navigate to Settings > Billing > Payment Methods, then add or update your payment information securely.",Billing
+15,Is there a free trial available?,Yes! We offer a 14-day free trial with full access to all features. No credit card required to start.,Billing

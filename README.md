@@ -49,6 +49,6 @@ pip install sentence-transformers pandas numpy scikit-learn
 Example:
 Enter your question: I forgot my password
 The system will return:
-### Top 3 relevant FAQs
-### Confidence scores
-### Best matching answer
+#### Top 3 relevant FAQs
+#### Confidence scores
+#### Best matching answer
